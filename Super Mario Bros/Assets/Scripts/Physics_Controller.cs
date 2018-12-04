@@ -13,7 +13,7 @@ public class Physics_Controller : MonoBehaviour {
     protected bool grounded; //Is on the ground (or a slope angle that is considered a ground?)
     protected Vector2 groundNormal;
     protected Rigidbody2D rb2d;
-    public Vector2 velocity;
+    public Vector2 velocity;  //Actual velocity of the gameobject
     protected ContactFilter2D contactFilter;
     protected RaycastHit2D[] hitBuffer = new RaycastHit2D[16];
     protected List<RaycastHit2D> hitBufferList = new List<RaycastHit2D>(16);

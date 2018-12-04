@@ -15,6 +15,7 @@ public class Player_Controller2 : Physics_Controller {
     public float hDecceleration = 0.5f;
     public float jumpDecceleration = 0.5f;
     public bool facingRight = false;
+    public bool isBigMario = false;
     public Animator animator;
     private SpriteRenderer spriteRenderer;
 
@@ -28,9 +29,11 @@ public class Player_Controller2 : Physics_Controller {
 
     protected override void ComputeVelocity()
     {
-        //Get Horizontal Input
+        //Get Horizontal Input  Move.x is just the direction (-1 , 0, or 1);
         Vector2 move = Vector2.zero;
         move.x = Input.GetAxis("Horizontal");
+        Debug.Log(move.x);
+
 
         //Get Vertical Input
         Vector2 yInput = Vector2.zero;
@@ -47,17 +50,38 @@ public class Player_Controller2 : Physics_Controller {
         if (Input.GetButton("Fire3") && grounded) { hSpeed = runSpeed;  hMax = runMax; } //If on ground and run key, run.
         else if (!Input.GetButton("Fire3") && grounded) {hSpeed = walkSpeed; hMax = walkMax; } //If on ground and no run key, walk.
 
-        //The actual command that controls movement.
-        targetVelocity.x += move.x * hSpeed;
+
+        //Crouching
+        if (yInput.y < 0 && isBigMario)
+        {
+            animator.SetBool("IsCrouching", true);
+            move.x = 0;
+            //targetVelocity.x *= hDecceleration;
+            //need a way to decrease h-velocity till come to a stop.
+        }
+        else { animator.SetBool("IsCrouching", false); }
+
+        //If no movement is detected, then deccelerate.
+
+        if (move.x == 0 && !grounded) { targetVelocity.x *= jumpDecceleration; } //Decelerate slower in the air
+        else if (move.x == 0 && grounded) { targetVelocity.x *=  hDecceleration; } //faster on the ground.
+        else
+        {
+
+            //The actual command that controls movement.
+            targetVelocity.x += move.x * hSpeed;
+        }
+
+        //Acceleration
+        // velocity = initial velocity + ( accelleration * time )
+        // velocity.x = velocity.x + accel * time.deltaTime;
+        // Decelleration 
+        // velocity.x = velocity.x + (-accel) * time.deltaTime;
+
 
         targetVelocity.x = Mathf.Clamp(targetVelocity.x, -hMax, hMax);
 
-
-        //If no movement is detected, then deccelerate.
-        if (move.x == 0 && !grounded) { targetVelocity.x *= jumpDecceleration;} //Decelerate slower in the air
-        else if (move.x == 0) { targetVelocity.x *= hDecceleration; } //faster on the ground.
-
-        if (Mathf.Abs(targetVelocity.x) < 0.01f) { targetVelocity.x = 0;} //When we get to small numbers, stop horizontal movement.
+        if (Mathf.Abs(targetVelocity.x) < 0.001f) { targetVelocity.x = 0;} //When we get to small numbers, stop horizontal movement.
         
         //Slide Animation
         if (move.x > 0 && velocity.x < 0 && grounded) { animator.SetBool("IsSliding", true); }
@@ -99,17 +123,17 @@ public class Player_Controller2 : Physics_Controller {
     {
         if (big == true)
         {
-            animator.SetBool("IsTransitionBtoS", false);
-            animator.SetBool("IsTransitionStoB", true);
+            isBigMario = true;
+            animator.SetBool("IsBig", true);
 
 
         }
 
         else if (big == false)
         {
-            animator.SetBool("IsTransitionStoB", false);
-            animator.SetBool("IsTransition.BtoS", true);
-        }
+            isBigMario = false;
+            animator.SetBool("IsBig", false);
+         }
 
         //1. Transition to big animation control set.
         //2. Change Collision box size (or disable/enable correct box).
