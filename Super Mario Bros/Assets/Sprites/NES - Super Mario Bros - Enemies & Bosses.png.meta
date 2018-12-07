@@ -102,6 +102,74 @@ TextureImporter:
     21300194: NES - Super Mario Bros - Enemies & Bosses_97
     21300196: NES - Super Mario Bros - Enemies & Bosses_98
     21300198: NES - Super Mario Bros - Enemies & Bosses_99
+    21300200: NES - Super Mario Bros - Enemies & Bosses_100
+    21300202: NES - Super Mario Bros - Enemies & Bosses_101
+    21300204: NES - Super Mario Bros - Enemies & Bosses_102
+    21300206: NES - Super Mario Bros - Enemies & Bosses_103
+    21300208: NES - Super Mario Bros - Enemies & Bosses_104
+    21300210: NES - Super Mario Bros - Enemies & Bosses_105
+    21300212: NES - Super Mario Bros - Enemies & Bosses_106
+    21300214: NES - Super Mario Bros - Enemies & Bosses_107
+    21300216: NES - Super Mario Bros - Enemies & Bosses_108
+    21300218: NES - Super Mario Bros - Enemies & Bosses_109
+    21300220: NES - Super Mario Bros - Enemies & Bosses_110
+    21300222: NES - Super Mario Bros - Enemies & Bosses_111
+    21300224: NES - Super Mario Bros - Enemies & Bosses_112
+    21300226: NES - Super Mario Bros - Enemies & Bosses_113
+    21300228: NES - Super Mario Bros - Enemies & Bosses_114
+    21300230: NES - Super Mario Bros - Enemies & Bosses_115
+    21300232: NES - Super Mario Bros - Enemies & Bosses_116
+    21300234: NES - Super Mario Bros - Enemies & Bosses_117
+    21300236: NES - Super Mario Bros - Enemies & Bosses_118
+    21300238: NES - Super Mario Bros - Enemies & Bosses_119
+    21300240: NES - Super Mario Bros - Enemies & Bosses_120
+    21300242: NES - Super Mario Bros - Enemies & Bosses_121
+    21300244: NES - Super Mario Bros - Enemies & Bosses_122
+    21300246: NES - Super Mario Bros - Enemies & Bosses_123
+    21300248: NES - Super Mario Bros - Enemies & Bosses_124
+    21300250: NES - Super Mario Bros - Enemies & Bosses_125
+    21300252: NES - Super Mario Bros - Enemies & Bosses_126
+    21300254: NES - Super Mario Bros - Enemies & Bosses_127
+    21300256: NES - Super Mario Bros - Enemies & Bosses_128
+    21300258: NES - Super Mario Bros - Enemies & Bosses_129
+    21300260: NES - Super Mario Bros - Enemies & Bosses_130
+    21300262: NES - Super Mario Bros - Enemies & Bosses_131
+    21300264: NES - Super Mario Bros - Enemies & Bosses_132
+    21300266: NES - Super Mario Bros - Enemies & Bosses_133
+    21300268: NES - Super Mario Bros - Enemies & Bosses_134
+    21300270: NES - Super Mario Bros - Enemies & Bosses_135
+    21300272: NES - Super Mario Bros - Enemies & Bosses_136
+    21300274: NES - Super Mario Bros - Enemies & Bosses_137
+    21300276: NES - Super Mario Bros - Enemies & Bosses_138
+    21300278: NES - Super Mario Bros - Enemies & Bosses_139
+    21300280: NES - Super Mario Bros - Enemies & Bosses_140
+    21300282: NES - Super Mario Bros - Enemies & Bosses_141
+    21300284: NES - Super Mario Bros - Enemies & Bosses_142
+    21300286: NES - Super Mario Bros - Enemies & Bosses_143
+    21300288: NES - Super Mario Bros - Enemies & Bosses_144
+    21300290: NES - Super Mario Bros - Enemies & Bosses_145
+    21300292: NES - Super Mario Bros - Enemies & Bosses_146
+    21300294: NES - Super Mario Bros - Enemies & Bosses_147
+    21300296: NES - Super Mario Bros - Enemies & Bosses_148
+    21300298: NES - Super Mario Bros - Enemies & Bosses_149
+    21300300: NES - Super Mario Bros - Enemies & Bosses_150
+    21300302: NES - Super Mario Bros - Enemies & Bosses_151
+    21300304: NES - Super Mario Bros - Enemies & Bosses_152
+    21300306: NES - Super Mario Bros - Enemies & Bosses_153
+    21300308: NES - Super Mario Bros - Enemies & Bosses_154
+    21300310: NES - Super Mario Bros - Enemies & Bosses_155
+    21300312: NES - Super Mario Bros - Enemies & Bosses_156
+    21300314: NES - Super Mario Bros - Enemies & Bosses_157
+    21300316: NES - Super Mario Bros - Enemies & Bosses_158
+    21300318: NES - Super Mario Bros - Enemies & Bosses_159
+    21300320: NES - Super Mario Bros - Enemies & Bosses_160
+    21300322: NES - Super Mario Bros - Enemies & Bosses_161
+    21300324: NES - Super Mario Bros - Enemies & Bosses_162
+    21300326: NES - Super Mario Bros - Enemies & Bosses_163
+    21300328: NES - Super Mario Bros - Enemies & Bosses_164
+    21300330: NES - Super Mario Bros - Enemies & Bosses_165
+    21300332: NES - Super Mario Bros - Enemies & Bosses_166
+    21300334: NES - Super Mario Bros - Enemies & Bosses_167
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -198,18 +266,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_0
       rect:
         serializedVersion: 2
-        x: 96
+        x: 0
         y: 96
         width: 16
-        height: 24
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cec10250c2786d444aa55ae8c5d198cc
+      spriteID: b9fe35c0182f06b499f6ad6150073ae0
       vertices: []
       indices: 
       edges: []
@@ -218,18 +286,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_1
       rect:
         serializedVersion: 2
-        x: 112
+        x: 16
         y: 96
         width: 16
-        height: 23
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3453965ae3a406241b10b08422724728
+      spriteID: a7d7c72614eabc249bc88aaa7c0067fb
       vertices: []
       indices: 
       edges: []
@@ -238,18 +306,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_2
       rect:
         serializedVersion: 2
-        x: 128
+        x: 32
         y: 96
-        width: 32
-        height: 24
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad2027fa8961d634c97353e4b6c0cbe2
+      spriteID: 65fb4c2b60b2ebb41b17b74437214a6c
       vertices: []
       indices: 
       edges: []
@@ -258,18 +326,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_3
       rect:
         serializedVersion: 2
-        x: 160
+        x: 48
         y: 96
-        width: 64
-        height: 24
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c2eb2d4fc41bf04dad306ec32a1df2f
+      spriteID: 8585a46bcf289be448178a768b2bba62
       vertices: []
       indices: 
       edges: []
@@ -278,18 +346,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_4
       rect:
         serializedVersion: 2
-        x: 224
+        x: 64
         y: 96
-        width: 64
-        height: 24
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c1f2b7fae12b9f44a172bfd71607d26
+      spriteID: e170b24a9d34e3a459fe717e1a2d336d
       vertices: []
       indices: 
       edges: []
@@ -298,18 +366,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_5
       rect:
         serializedVersion: 2
-        x: 288
-        y: 97
-        width: 32
-        height: 23
+        x: 80
+        y: 96
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b8f5c5200170c04a96f7ae19b59e4ed
+      spriteID: a5e08ccf296c7ed4c9b39a15264b5003
       vertices: []
       indices: 
       edges: []
@@ -318,18 +386,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_6
       rect:
         serializedVersion: 2
-        x: 320
+        x: 96
         y: 96
         width: 16
-        height: 24
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2acfbf342870da04da0d55f156b2a217
+      spriteID: 3a8fcf575f2680440a950614204929da
       vertices: []
       indices: 
       edges: []
@@ -338,18 +406,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_7
       rect:
         serializedVersion: 2
-        x: 336
+        x: 112
         y: 96
         width: 16
-        height: 24
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7775fdd6a1c3054b9ac27390407d9d2
+      spriteID: 939a94d9f0c64c74882fdb164f5cc972
       vertices: []
       indices: 
       edges: []
@@ -358,18 +426,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_8
       rect:
         serializedVersion: 2
-        x: 353
+        x: 128
         y: 96
-        width: 15
-        height: 24
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13c88312d31b8ec48b47578884d61c22
+      spriteID: ece7cb4fe01b2a949b786881cda0c411
       vertices: []
       indices: 
       edges: []
@@ -378,18 +446,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_9
       rect:
         serializedVersion: 2
-        x: 369
+        x: 144
         y: 96
-        width: 31
-        height: 24
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f2c23f7c3b9d6d428861e8ee8267cb2
+      spriteID: b96499803a51e804487d02a94e9fa9a9
       vertices: []
       indices: 
       edges: []
@@ -398,18 +466,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_10
       rect:
         serializedVersion: 2
-        x: 388
-        y: 112
-        width: 8
-        height: 16
+        x: 160
+        y: 96
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f608ba683bc6c2c44993cf4133e47ffb
+      spriteID: d3bdcff6fbcd45042b411c2a94f08126
       vertices: []
       indices: 
       edges: []
@@ -418,18 +486,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_11
       rect:
         serializedVersion: 2
-        x: 400
-        y: 116
+        x: 176
+        y: 96
         width: 16
-        height: 8
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd7ca12393f6449428d622925e428b34
+      spriteID: 7e11e4f7ecfe87a429d041d8a65a6eda
       vertices: []
       indices: 
       edges: []
@@ -438,18 +506,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_12
       rect:
         serializedVersion: 2
-        x: 416
+        x: 192
         y: 96
-        width: 32
-        height: 24
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8d90fcde3b367248aaae8f8bbf980fa
+      spriteID: 09af56d7c0ac2bc409f6d0f7bce22dc2
       vertices: []
       indices: 
       edges: []
@@ -458,18 +526,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_13
       rect:
         serializedVersion: 2
-        x: 592
+        x: 208
         y: 96
-        width: 32
-        height: 24
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c09145f1e9c78534aa360c586afff9ea
+      spriteID: 1f22a530d98e3ec4cba28450af589537
       vertices: []
       indices: 
       edges: []
@@ -478,18 +546,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_14
       rect:
         serializedVersion: 2
-        x: 656
+        x: 224
         y: 96
-        width: 32
+        width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2fd2c5baf12f37a43a8e96132ef8eefe
+      spriteID: 961c6f71c2693ee47a571b08c6df11a1
       vertices: []
       indices: 
       edges: []
@@ -498,18 +566,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_15
       rect:
         serializedVersion: 2
-        x: 688
+        x: 240
         y: 96
-        width: 32
+        width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c21f2fc244bc8c74ca59781f52a75146
+      spriteID: d80d4f114fb5cf34581f76b541530021
       vertices: []
       indices: 
       edges: []
@@ -518,18 +586,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_16
       rect:
         serializedVersion: 2
-        x: 720
+        x: 256
         y: 96
-        width: 32
+        width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8bdcdaed0dd1b049812fa58ea689ccf
+      spriteID: 702b0191a511aa943829ffef1538ff6d
       vertices: []
       indices: 
       edges: []
@@ -538,18 +606,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_17
       rect:
         serializedVersion: 2
-        x: 752
+        x: 272
         y: 96
-        width: 32
+        width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: efe56e353511cd8438b805a198269d1e
+      spriteID: 7ab714ea8122ac0458bddc4e26f03162
       vertices: []
       indices: 
       edges: []
@@ -558,18 +626,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_18
       rect:
         serializedVersion: 2
-        x: 784
-        y: 112
-        width: 24
-        height: 16
+        x: 288
+        y: 96
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d2affa6a86ac934883867b0471f56ef
+      spriteID: 1b3e47c8de759cd40bddfa7358a2cfe1
       vertices: []
       indices: 
       edges: []
@@ -578,18 +646,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_19
       rect:
         serializedVersion: 2
-        x: 0
+        x: 304
         y: 96
-        width: 32
-        height: 16
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c847700b48c0e544e8ed34dae25d539d
+      spriteID: c5001d2a2202eeb4c83425ebdddf6923
       vertices: []
       indices: 
       edges: []
@@ -598,18 +666,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_20
       rect:
         serializedVersion: 2
-        x: 32
+        x: 320
         y: 96
         width: 16
-        height: 8
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c22fb6be41d38124ba54d2f15add5c85
+      spriteID: 1caef312b3d56d64382ea99fb9ba90d5
       vertices: []
       indices: 
       edges: []
@@ -618,18 +686,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_21
       rect:
         serializedVersion: 2
-        x: 49
+        x: 336
         y: 96
-        width: 30
-        height: 16
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 987d567c27e802843b5d45281d4645a8
+      spriteID: 086e05e9592d23d4987d3aa130138a71
       vertices: []
       indices: 
       edges: []
@@ -638,18 +706,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_22
       rect:
         serializedVersion: 2
-        x: 80
+        x: 352
         y: 96
         width: 16
-        height: 8
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c568b3d7c93ca747bc2076cf53dcdde
+      spriteID: b5c0c1dba72bdd34fbd7c8926c941ce2
       vertices: []
       indices: 
       edges: []
@@ -658,18 +726,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_23
       rect:
         serializedVersion: 2
-        x: 404
+        x: 368
         y: 96
-        width: 8
-        height: 16
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10ad1da31a106ff4ca44fefa111ef787
+      spriteID: d7a68c0e405ea0f4db057c71296d6891
       vertices: []
       indices: 
       edges: []
@@ -678,18 +746,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_24
       rect:
         serializedVersion: 2
-        x: 512
+        x: 384
         y: 96
-        width: 48
-        height: 16
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2cff71251841cd440990e99e802cd20f
+      spriteID: 3cd69ab57ce6ff24788612b8944fb4aa
       vertices: []
       indices: 
       edges: []
@@ -698,18 +766,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_25
       rect:
         serializedVersion: 2
-        x: 560
-        y: 97
+        x: 400
+        y: 96
         width: 16
-        height: 14
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e879b20df1f850a4c9b61f5398d93902
+      spriteID: 564042734e9076a45811c285fd90e906
       vertices: []
       indices: 
       edges: []
@@ -718,18 +786,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_26
       rect:
         serializedVersion: 2
-        x: 624
+        x: 416
         y: 96
-        width: 31
-        height: 16
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4e38c65675028d47b9282d059f04759
+      spriteID: 59a580b235313bd4ea51af4a00e05da5
       vertices: []
       indices: 
       edges: []
@@ -738,18 +806,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_27
       rect:
         serializedVersion: 2
-        x: 96
-        y: 64
+        x: 432
+        y: 96
         width: 16
-        height: 24
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64c8bd41af6fe7247a557ca7fbddab02
+      spriteID: a2127b139bca12343a64ed375e046cf7
       vertices: []
       indices: 
       edges: []
@@ -758,18 +826,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_28
       rect:
         serializedVersion: 2
-        x: 112
-        y: 64
+        x: 512
+        y: 96
         width: 16
-        height: 23
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ab3a33882e304845a4a22a54c142ec2
+      spriteID: 9b9f8195192f706429cdd88d0dc72984
       vertices: []
       indices: 
       edges: []
@@ -778,18 +846,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_29
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
-        width: 32
-        height: 24
+        x: 528
+        y: 96
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2150d6fd4f172d94f92128cd81e684f1
+      spriteID: 81a4a44ad5ed9c74abbf85292c9ac64c
       vertices: []
       indices: 
       edges: []
@@ -798,18 +866,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_30
       rect:
         serializedVersion: 2
-        x: 160
-        y: 64
-        width: 64
-        height: 24
+        x: 544
+        y: 96
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53fd05fb003db214a9b8f6caeedcb891
+      spriteID: 557905acc838afa4099e9e7ecb5fa9ec
       vertices: []
       indices: 
       edges: []
@@ -818,18 +886,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_31
       rect:
         serializedVersion: 2
-        x: 224
-        y: 64
-        width: 64
-        height: 24
+        x: 560
+        y: 96
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 610ca5677c0e1634cb6e93a22ee769f5
+      spriteID: 565f906ea69c2e94d88746bf2a7363ca
       vertices: []
       indices: 
       edges: []
@@ -838,18 +906,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_32
       rect:
         serializedVersion: 2
-        x: 288
-        y: 65
-        width: 32
-        height: 23
+        x: 592
+        y: 96
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d05d38cec73c73d4aa1e87a6f518242b
+      spriteID: 7db45969105799c489d9ecd0f20438e8
       vertices: []
       indices: 
       edges: []
@@ -858,18 +926,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_33
       rect:
         serializedVersion: 2
-        x: 320
-        y: 64
+        x: 608
+        y: 96
         width: 16
-        height: 24
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31591664447d314478a3ce20f695b472
+      spriteID: a8d52043c20eb594892c67d835ae247d
       vertices: []
       indices: 
       edges: []
@@ -878,18 +946,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_34
       rect:
         serializedVersion: 2
-        x: 336
-        y: 64
+        x: 624
+        y: 96
         width: 16
-        height: 24
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b1db3598bc5efb4f8579ac3e4e0267d
+      spriteID: 24c90860d4955b34884e15f2680769e2
       vertices: []
       indices: 
       edges: []
@@ -898,18 +966,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_35
       rect:
         serializedVersion: 2
-        x: 353
-        y: 64
-        width: 15
-        height: 24
+        x: 640
+        y: 96
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a369e5eef3fcbde46bab0e3bfacb4976
+      spriteID: c7dab1db2c160254d8a2333c94c3fae1
       vertices: []
       indices: 
       edges: []
@@ -918,18 +986,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_36
       rect:
         serializedVersion: 2
-        x: 369
-        y: 64
-        width: 31
-        height: 24
+        x: 656
+        y: 96
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 851e0963899a4114c8dcbd2d72d02a3c
+      spriteID: f91625f124337e947ace6407085ca031
       vertices: []
       indices: 
       edges: []
@@ -938,18 +1006,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_37
       rect:
         serializedVersion: 2
-        x: 388
-        y: 80
-        width: 8
-        height: 16
+        x: 672
+        y: 96
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 441a073ca6e022e4aacb8030fc07a703
+      spriteID: 76526bd930cc6cf49b9b64a939517c01
       vertices: []
       indices: 
       edges: []
@@ -958,18 +1026,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_38
       rect:
         serializedVersion: 2
-        x: 400
-        y: 84
+        x: 688
+        y: 96
         width: 16
-        height: 8
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b68544cd5bbe4945993c96cd166cbb3
+      spriteID: 94490e689ef64514fbd32e9a2ffae03b
       vertices: []
       indices: 
       edges: []
@@ -978,18 +1046,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_39
       rect:
         serializedVersion: 2
-        x: 416
-        y: 64
-        width: 32
-        height: 24
+        x: 704
+        y: 96
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2055567710d11d24a869d5b30d4c7547
+      spriteID: f8e70c183ccb0f7429d92b12485a416e
       vertices: []
       indices: 
       edges: []
@@ -998,18 +1066,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_40
       rect:
         serializedVersion: 2
-        x: 592
-        y: 64
-        width: 32
-        height: 24
+        x: 720
+        y: 96
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3aa2dc02ea3787d4aae06774be92c67e
+      spriteID: ffe027c7dcc60274d8eba3eb30136258
       vertices: []
       indices: 
       edges: []
@@ -1018,18 +1086,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_41
       rect:
         serializedVersion: 2
-        x: 656
-        y: 64
-        width: 32
+        x: 736
+        y: 96
+        width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad133f8c9423fa444bc04d766b4f5e07
+      spriteID: fa8207a3b7a892c4d94fd78b6fa10c06
       vertices: []
       indices: 
       edges: []
@@ -1038,18 +1106,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_42
       rect:
         serializedVersion: 2
-        x: 688
-        y: 64
-        width: 32
+        x: 752
+        y: 96
+        width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d60961aa7b341fb4a9d86efb0592575c
+      spriteID: 5b39c5474fdcc584b94e8a071a0e6170
       vertices: []
       indices: 
       edges: []
@@ -1058,18 +1126,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_43
       rect:
         serializedVersion: 2
-        x: 720
-        y: 64
-        width: 32
+        x: 768
+        y: 96
+        width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec9fdd80e53bd1f448f9f64d50f5fe76
+      spriteID: bf2a527a76771ec45b6226fc9f05194f
       vertices: []
       indices: 
       edges: []
@@ -1078,18 +1146,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_44
       rect:
         serializedVersion: 2
-        x: 752
-        y: 64
-        width: 32
+        x: 784
+        y: 96
+        width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4312d9bcd569f65469bf2f7415212b74
+      spriteID: 551ffb76bc297ad458c933caa5b83de8
       vertices: []
       indices: 
       edges: []
@@ -1100,16 +1168,16 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 64
-        width: 32
-        height: 16
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ca1e10c59c6b7842b62623f98643f83
+      spriteID: d107ab7cc8e971c48b3d56811bd0083d
       vertices: []
       indices: 
       edges: []
@@ -1118,18 +1186,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_46
       rect:
         serializedVersion: 2
-        x: 32
+        x: 16
         y: 64
         width: 16
-        height: 8
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9de8f0896a81c2046a4f731de12d1ce1
+      spriteID: 7212fe5607e0bda4e9384f4027819672
       vertices: []
       indices: 
       edges: []
@@ -1138,18 +1206,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_47
       rect:
         serializedVersion: 2
-        x: 49
+        x: 32
         y: 64
-        width: 30
-        height: 16
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27d959d4e01b0074182e710f23a6ce9b
+      spriteID: 16ece6afa3f7ada4a9e5a02e6c723ce8
       vertices: []
       indices: 
       edges: []
@@ -1158,18 +1226,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_48
       rect:
         serializedVersion: 2
-        x: 80
+        x: 48
         y: 64
         width: 16
-        height: 8
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3aef43ef8863cb4fbb5e3a281bcd366
+      spriteID: 293f387d2ec320b4196065db5b52c849
       vertices: []
       indices: 
       edges: []
@@ -1178,18 +1246,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_49
       rect:
         serializedVersion: 2
-        x: 404
+        x: 64
         y: 64
-        width: 8
-        height: 16
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d39d448016e6e343b896bfd0b98b51e
+      spriteID: 39815c4b13982744fa44f2d192119915
       vertices: []
       indices: 
       edges: []
@@ -1198,18 +1266,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_50
       rect:
         serializedVersion: 2
-        x: 512
+        x: 80
         y: 64
-        width: 48
-        height: 16
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2354ad80e2cd70c4d9a761fd5f9ea5d7
+      spriteID: ed325963f73cfee4ea164668e2a889f6
       vertices: []
       indices: 
       edges: []
@@ -1218,18 +1286,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_51
       rect:
         serializedVersion: 2
-        x: 560
-        y: 65
+        x: 96
+        y: 64
         width: 16
-        height: 14
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d2c3881d4f415e4c9f6c2ce6297a107
+      spriteID: 1d45c97bfb4aa914488c90fe9748eacd
       vertices: []
       indices: 
       edges: []
@@ -1238,18 +1306,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_52
       rect:
         serializedVersion: 2
-        x: 624
+        x: 112
         y: 64
-        width: 31
-        height: 16
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cfc05fcf0bce02c4ab9f0e238f81f940
+      spriteID: 9e6dea6121a0fd04ea43ce663dead637
       vertices: []
       indices: 
       edges: []
@@ -1258,18 +1326,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_53
       rect:
         serializedVersion: 2
-        x: 96
-        y: 32
+        x: 128
+        y: 64
         width: 16
-        height: 24
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4106f5a0bcb8954db7c3dc9c32da94b
+      spriteID: f3c5579c2f82a144b87f5d5b5390a2e3
       vertices: []
       indices: 
       edges: []
@@ -1278,18 +1346,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_54
       rect:
         serializedVersion: 2
-        x: 112
-        y: 32
+        x: 144
+        y: 64
         width: 16
-        height: 23
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4225cf3ad994c9a4d8faf8b213170df9
+      spriteID: 83f7b7ee474d85644b8ed488fca6ebe4
       vertices: []
       indices: 
       edges: []
@@ -1298,18 +1366,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_55
       rect:
         serializedVersion: 2
-        x: 128
-        y: 32
-        width: 32
-        height: 24
+        x: 160
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: adb232c993b3b864a951d9854af4afd8
+      spriteID: 75a4b584740193849ba561a034a832b3
       vertices: []
       indices: 
       edges: []
@@ -1318,18 +1386,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_56
       rect:
         serializedVersion: 2
-        x: 160
-        y: 32
-        width: 64
-        height: 24
+        x: 176
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cab0de878e3a5a44c893479083aac94f
+      spriteID: 26c826c0d880f92419d291449bb42edd
       vertices: []
       indices: 
       edges: []
@@ -1338,18 +1406,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_57
       rect:
         serializedVersion: 2
-        x: 224
-        y: 32
-        width: 64
-        height: 24
+        x: 192
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2c4a3b57efd2b84e997fd9da500d2cc
+      spriteID: 8965432a773d5e04b8a05b94d568fcab
       vertices: []
       indices: 
       edges: []
@@ -1358,18 +1426,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_58
       rect:
         serializedVersion: 2
-        x: 288
-        y: 33
-        width: 32
-        height: 23
+        x: 208
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9b21ef26c5f10c4aac9675a848a1710
+      spriteID: 860fdf9fc4237ca4fa4a4e24a734f207
       vertices: []
       indices: 
       edges: []
@@ -1378,18 +1446,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_59
       rect:
         serializedVersion: 2
-        x: 388
-        y: 48
-        width: 8
-        height: 16
+        x: 224
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6fe3a94c0e21ba49ba5f097fb5afd60
+      spriteID: 60639df7e8beb8b468a564ec637391fa
       vertices: []
       indices: 
       edges: []
@@ -1398,18 +1466,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_60
       rect:
         serializedVersion: 2
-        x: 400
-        y: 52
+        x: 240
+        y: 64
         width: 16
-        height: 8
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d67169f404b83db47a660927c7b88ee2
+      spriteID: 24c3102a20259f84b9fbb2c324b3500d
       vertices: []
       indices: 
       edges: []
@@ -1418,18 +1486,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_61
       rect:
         serializedVersion: 2
-        x: 592
-        y: 32
-        width: 32
-        height: 24
+        x: 256
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82389f9815ffa7445bdc264f3b6f92dc
+      spriteID: f5772cc85c1f70b49a3fce15d0cc0bf4
       vertices: []
       indices: 
       edges: []
@@ -1438,18 +1506,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_62
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
-        width: 32
-        height: 16
+        x: 272
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b37582022451a841b2e519d082c2f61
+      spriteID: 4f12d8d6a1167fd43a43a3bae86200aa
       vertices: []
       indices: 
       edges: []
@@ -1458,18 +1526,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_63
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
+        x: 288
+        y: 64
         width: 16
-        height: 8
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0f906df71026ac4b80e6b39ef6d159a
+      spriteID: 63d5315703a1c9c469645416c1f16167
       vertices: []
       indices: 
       edges: []
@@ -1478,18 +1546,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_64
       rect:
         serializedVersion: 2
-        x: 49
-        y: 32
-        width: 30
-        height: 16
+        x: 304
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55525e3ff0e1e4a4eaa5b4730e6f1bb2
+      spriteID: 853e0e8a0fb61124bb88f6102b1cd79e
       vertices: []
       indices: 
       edges: []
@@ -1498,18 +1566,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_65
       rect:
         serializedVersion: 2
-        x: 80
-        y: 32
+        x: 320
+        y: 64
         width: 16
-        height: 8
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65e143a4a0e03dd4c88c68a3db55e9ff
+      spriteID: 44df1c4f7d886644b9abbad8bee760c2
       vertices: []
       indices: 
       edges: []
@@ -1518,18 +1586,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_66
       rect:
         serializedVersion: 2
-        x: 384
-        y: 36
+        x: 336
+        y: 64
         width: 16
-        height: 8
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7cc1fbf6d8e3fb64c84b2103c9343720
+      spriteID: 1497b2b7bb49557449046c73181cdbcc
       vertices: []
       indices: 
       edges: []
@@ -1538,18 +1606,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_67
       rect:
         serializedVersion: 2
-        x: 404
-        y: 32
-        width: 8
-        height: 16
+        x: 352
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9eed4f2ee02da8e4a95e1f8dae32ae1f
+      spriteID: de7f519480be2ef4ba412ea78774fe73
       vertices: []
       indices: 
       edges: []
@@ -1558,18 +1626,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_68
       rect:
         serializedVersion: 2
-        x: 449
-        y: 32
-        width: 14
-        height: 16
+        x: 368
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa4ee69f28b55cb46b16d800b0fd3093
+      spriteID: c486a7a3143785d4aa56b56601851b89
       vertices: []
       indices: 
       edges: []
@@ -1578,18 +1646,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_69
       rect:
         serializedVersion: 2
-        x: 465
-        y: 32
-        width: 14
-        height: 16
+        x: 384
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48ff705de9b071f4aa53826747c9d14c
+      spriteID: 22feb5f4fba0a30488f2bc95020726b0
       vertices: []
       indices: 
       edges: []
@@ -1598,18 +1666,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_70
       rect:
         serializedVersion: 2
-        x: 480
-        y: 32
-        width: 80
-        height: 16
+        x: 400
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cce801286a182e143aed19d9e54c3d52
+      spriteID: cc504f30e8e63884e8ad9c9aab3a8528
       vertices: []
       indices: 
       edges: []
@@ -1618,18 +1686,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_71
       rect:
         serializedVersion: 2
-        x: 560
-        y: 33
+        x: 416
+        y: 64
         width: 16
-        height: 14
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9e1e8627fee35840a5f578e08eacac9
+      spriteID: b97104cc4d8b46e4a843fbc5e64c0ff3
       vertices: []
       indices: 
       edges: []
@@ -1638,18 +1706,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_72
       rect:
         serializedVersion: 2
-        x: 577
-        y: 32
-        width: 14
-        height: 16
+        x: 432
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3698b263e726c2d469175f6ee13fdfb1
+      spriteID: be9851c3f2ae41a4e9e77f927995e02b
       vertices: []
       indices: 
       edges: []
@@ -1658,18 +1726,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_73
       rect:
         serializedVersion: 2
-        x: 624
-        y: 32
-        width: 31
-        height: 16
+        x: 512
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47e8dae56a760a548babc3219d68fc1d
+      spriteID: e5998a34204ea3c408588805a7ade588
       vertices: []
       indices: 
       edges: []
@@ -1678,18 +1746,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_74
       rect:
         serializedVersion: 2
-        x: 96
-        y: 0
+        x: 528
+        y: 64
         width: 16
-        height: 24
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9fe0c7212236ca24e9984a042db5d447
+      spriteID: 37fa50b0e7375714799c1eaefcc062e3
       vertices: []
       indices: 
       edges: []
@@ -1698,18 +1766,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_75
       rect:
         serializedVersion: 2
-        x: 112
-        y: 0
+        x: 544
+        y: 64
         width: 16
-        height: 23
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7414063bb9610d3498a7359f44f9d79f
+      spriteID: 0b2801ea94651a54b97f79f44dc57a20
       vertices: []
       indices: 
       edges: []
@@ -1718,18 +1786,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_76
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0
-        width: 32
-        height: 24
+        x: 560
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6817220c5df0e06439aa3491a2cfa01a
+      spriteID: f095d9f4812693f4b8a3310f82e1eb50
       vertices: []
       indices: 
       edges: []
@@ -1738,18 +1806,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_77
       rect:
         serializedVersion: 2
-        x: 160
-        y: 0
-        width: 64
-        height: 24
+        x: 592
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d58f5f46856dc74c96b24765ca64dd9
+      spriteID: 85b8e069105ea564bae46ffae290841b
       vertices: []
       indices: 
       edges: []
@@ -1758,18 +1826,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_78
       rect:
         serializedVersion: 2
-        x: 224
-        y: 0
-        width: 64
-        height: 24
+        x: 608
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 595bb4611efcc9b49bfd754effe3df53
+      spriteID: 6387bd79ca62e02488112182c604d78e
       vertices: []
       indices: 
       edges: []
@@ -1778,18 +1846,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_79
       rect:
         serializedVersion: 2
-        x: 288
-        y: 1
-        width: 32
-        height: 23
+        x: 624
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef5c37c94599e4a41be988e3f9fa6498
+      spriteID: 1a125fc958ba24247a60149e41e78db5
       vertices: []
       indices: 
       edges: []
@@ -1798,18 +1866,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_80
       rect:
         serializedVersion: 2
-        x: 320
-        y: 0
+        x: 640
+        y: 64
         width: 16
-        height: 24
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b46a801bc9170b48830395cee617569
+      spriteID: d8c74a502f106984c8ce385e121a551e
       vertices: []
       indices: 
       edges: []
@@ -1818,18 +1886,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_81
       rect:
         serializedVersion: 2
-        x: 336
-        y: 0
+        x: 656
+        y: 64
         width: 16
-        height: 24
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6acdc0dd12cc9f4d9733a92f6694560
+      spriteID: fbe3635fd751d974e9756816f402817a
       vertices: []
       indices: 
       edges: []
@@ -1838,18 +1906,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_82
       rect:
         serializedVersion: 2
-        x: 353
-        y: 0
-        width: 15
-        height: 24
+        x: 672
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36f3e5ae532db244093f1c7d02b62445
+      spriteID: 7d08e490ea3726a47822f63e3ba20e82
       vertices: []
       indices: 
       edges: []
@@ -1858,18 +1926,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_83
       rect:
         serializedVersion: 2
-        x: 369
-        y: 0
-        width: 31
-        height: 24
+        x: 688
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2430f60d7900e0f4f92abf7fa8477883
+      spriteID: 834da634073a3ca4a990403ff6f33b23
       vertices: []
       indices: 
       edges: []
@@ -1878,18 +1946,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_84
       rect:
         serializedVersion: 2
-        x: 388
-        y: 16
-        width: 8
-        height: 16
+        x: 704
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49a2064bc3778d34299ade1fc0ec5b19
+      spriteID: e558cd7aeea2bcf45ba3a5f6c4658095
       vertices: []
       indices: 
       edges: []
@@ -1898,18 +1966,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_85
       rect:
         serializedVersion: 2
-        x: 400
-        y: 20
+        x: 720
+        y: 64
         width: 16
-        height: 8
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 591f961ad267e8e4d8bc85cc89c4b635
+      spriteID: 77d3846bd2c9210408767f6e67eac37d
       vertices: []
       indices: 
       edges: []
@@ -1918,18 +1986,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_86
       rect:
         serializedVersion: 2
-        x: 416
-        y: 0
-        width: 32
-        height: 24
+        x: 736
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa2cd468f3c34fb4181e95ab9436ceb3
+      spriteID: 50244fc333585be4ca1a4775a24b2b8a
       vertices: []
       indices: 
       edges: []
@@ -1938,18 +2006,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_87
       rect:
         serializedVersion: 2
-        x: 592
-        y: 0
-        width: 32
-        height: 24
+        x: 752
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17d4edc2da0e9e34b95be6484f5fd01a
+      spriteID: b45dd7e972b6f04439d44f75956a27d8
       vertices: []
       indices: 
       edges: []
@@ -1958,18 +2026,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_88
       rect:
         serializedVersion: 2
-        x: 656
-        y: 0
-        width: 32
+        x: 768
+        y: 64
+        width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bcd11340c530d4c4fbe4bce1c7625d78
+      spriteID: 37ef77622b8bb2045a968e0b9b81359a
       vertices: []
       indices: 
       edges: []
@@ -1978,18 +2046,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_89
       rect:
         serializedVersion: 2
-        x: 688
-        y: 0
-        width: 32
+        x: 0
+        y: 32
+        width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce906dc2f8e647c40b2eae290cd7fab2
+      spriteID: f5140598ecc74694a9fc661ccaa91ee9
       vertices: []
       indices: 
       edges: []
@@ -1998,18 +2066,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_90
       rect:
         serializedVersion: 2
-        x: 720
-        y: 0
-        width: 32
+        x: 16
+        y: 32
+        width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f76e7dc122f1d24ab40bbface08146f
+      spriteID: 6d071337ee8c9204faf00cdaefbfd39c
       vertices: []
       indices: 
       edges: []
@@ -2018,18 +2086,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_91
       rect:
         serializedVersion: 2
-        x: 752
-        y: 0
-        width: 32
+        x: 32
+        y: 32
+        width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eebf3b411a1f5b24d8932e4dfc523eeb
+      spriteID: 51fff56ea7c494d4e9b7c5614a7f7809
       vertices: []
       indices: 
       edges: []
@@ -2038,18 +2106,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_92
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 32
-        height: 16
+        x: 48
+        y: 32
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71d2c1a2061ad5445881d203df871d41
+      spriteID: 50d91cb3a401e304d900c71c53146dc4
       vertices: []
       indices: 
       edges: []
@@ -2058,18 +2126,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_93
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
+        x: 64
+        y: 32
         width: 16
-        height: 8
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ff64b3583bac2b4bb0c397dc9e8d31a
+      spriteID: f014c3851b9cc0545a7a4d87a6760a6d
       vertices: []
       indices: 
       edges: []
@@ -2078,18 +2146,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_94
       rect:
         serializedVersion: 2
-        x: 49
-        y: 0
-        width: 30
-        height: 16
+        x: 80
+        y: 32
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07e7713ce0cae1e40b9da29ce0372099
+      spriteID: 5dde9ef073d44fd4d8f532c6c0f2c519
       vertices: []
       indices: 
       edges: []
@@ -2098,18 +2166,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_95
       rect:
         serializedVersion: 2
-        x: 80
-        y: 0
+        x: 96
+        y: 32
         width: 16
-        height: 8
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2be12c0a89aa58c4eb726bc91715992d
+      spriteID: 506f19d8fb5e9d44887718bd6e247d23
       vertices: []
       indices: 
       edges: []
@@ -2118,18 +2186,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_96
       rect:
         serializedVersion: 2
-        x: 404
-        y: 0
-        width: 8
-        height: 16
+        x: 112
+        y: 32
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e69e8753d13c56140b2ae5e85c7e010f
+      spriteID: 82165807ea47c2d44949feb8ac695ce4
       vertices: []
       indices: 
       edges: []
@@ -2138,18 +2206,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_97
       rect:
         serializedVersion: 2
-        x: 512
-        y: 0
-        width: 48
-        height: 16
+        x: 128
+        y: 32
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f349aade665f19458a0354b1f4036f9
+      spriteID: 644f6d9c9dee6f74089450ec363e3b28
       vertices: []
       indices: 
       edges: []
@@ -2158,18 +2226,18 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_98
       rect:
         serializedVersion: 2
-        x: 560
-        y: 1
+        x: 144
+        y: 32
         width: 16
-        height: 14
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19ceb6e7eb66ba343906da89f7079ffc
+      spriteID: e1ee89dc24f317047b081dc90afdca39
       vertices: []
       indices: 
       edges: []
@@ -2178,18 +2246,1378 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies & Bosses_99
       rect:
         serializedVersion: 2
-        x: 624
-        y: 0
-        width: 31
-        height: 16
+        x: 160
+        y: 32
+        width: 16
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23a7df659e0475147aa26bad2da22eff
+      spriteID: a5df223b794d7ff429f4610185c881ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_100
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229195c1f7ac30d458b4f814072599d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5589e869818ee3d499567d21c34f7a65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_102
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069fef151befcd0449337644451d6003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6a8a8cb2badff48aa61d5e9271d78c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_104
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fa41e8b42addd428f90f1d5b90ea4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_105
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9601350fc079e41b4c617b160cfc76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_106
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8a35c810ece2541b9ff6f07e98b0b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_107
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab64a74263fb584789ddaef6b14b620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_108
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445e4ec500b0a4146b51e7d4c8913d5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_109
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6fe7fa1b6ccd74796135c0b2ed6cc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_110
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7b4561027beee4aa0f88fc17025f4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_111
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8ce1f2029eb1746b4b751a4b07f802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_112
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f92e2217fecf840a64e27a1d201052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_113
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f9ad3cc6a112e45aa3bbed36739893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_114
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5700ccab0a438d54da95d80dc1bd3b38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_115
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1884660f70c400848acb1151aa181ed4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_116
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e36aa5c71f46644791ac8856c432a7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_117
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccc271d594edec4986594b643abefa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_118
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ee44e8473409a4eadf0836b0e5b1cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_119
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de45fdf86bb9c649993fabbb87d876b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_120
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b60f39aaa881b40acede6d85f2cdfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_121
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9208e6fec0ae8047bd0312a263c4e89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_122
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65627add0e0e3d43a1733afae179692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_123
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6483c0501245547b6e524054976020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf390838b8d9ce4b84c8cee335b642d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_125
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e020dfcde24f8cb42aaf3312d629b4a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_126
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe611b7172c4cf41bf1e153832595a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_127
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55df97ddfd6db3469d2231a60ef7fe4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5b31ec7d520774299b908773c039e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_129
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037fffcb41e925d41b0e625c5acc2ce8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b2c9326654b294fa58d57fb1524bfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_131
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c17cc4ecb7dfe64aa4e3d90e251791a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1f6448e9772924984b2b5173925063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_133
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059388ac28ecd2642aa7692608b75f51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_134
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffb72f6fb3ea3048a5b04d1e7f1c80a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_135
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d22cf3db4c75f49b3849d662182e38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ec7dda4197f1540ad8cc30a38f1596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_137
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d78627be3d152448779346fff9b2db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_138
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f59844751c8fa4483d40707cab2a8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_139
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3eddc292bbc114e8f597c91d94bd14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_140
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf584b48814792148891d39e8a770b53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_141
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a565653e84359842a9f8436918668f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_142
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364a196b69bae86429c1f07654f014bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_143
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3266b058a59e04aa43997041c956e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_144
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6051b7cb5cff04e8cefb13192bdfce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_145
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9e617450a4e464b84e88e58cfa78da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_146
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8fed62badcd764a80427e1e0d82bc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_147
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0a6a65a6aa01347880c7d2db1d72a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_148
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f3d2a25fad9d647973d4f0eb611272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_149
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da4c5dc31eb5d04a8d572767ee111ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_150
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a6a1916f79dd04fae7f9eb9f3b3c4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_151
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874afb3979a690c4fbc774404eadc9d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5dbe271f36b024d8ea7987c9cfb0e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_153
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b905948e40de0548b4f309fa751f94b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_154
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61260e249527515439462c60182d3577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_155
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d398ffaf27f40224da1bb3038cfd21a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_156
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa10fefce71e400488c521d1588c2acf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_157
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce710545a6cdd04d963591fa7781488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_158
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6af699edb6597446a304524d24b8211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_159
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773c0c0688e6fa54ba499e06949d0820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_160
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4189fbeaea66e4d9644a7897aa8f0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_161
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462149e840c09294f900c2b639c91b69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_162
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee64a724f08369c438cc958dfb6ddfb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_163
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b3c6c79bb6de34a83f4e7be2d4fedb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_164
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70edf94896dc52449ae517b54c3da045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_165
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d689b49a267a442acd90395c09e1d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_166
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2528b2fe77602e47acaca0b038ac21c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_167
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d083730abcb168c4e8779f09f22e07f1
       vertices: []
       indices: 
       edges: []
