@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Groundable
+  - Enemy
+  - Mushroom
+  - Flower
+  - CoinBlock
+  - Brick
   layers:
   - Default
   - TransparentFX
@@ -17,7 +22,7 @@ TagManager:
   - Player
   - Collidable
   - Enemy
-  - 
+  - PowerUp
   - 
   - 
   - 

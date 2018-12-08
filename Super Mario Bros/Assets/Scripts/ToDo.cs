@@ -34,6 +34,7 @@ public class ToDo : MonoBehaviour {
  *      iii. If stop crouching while underneath a block... 
  *          if in the air, and there is room underneath, then move down.
  *          if there isn't room underneath, then push Mario out to the opposite side he's facing.
+ *   h. Attacking Item
  *      
  * 2. Blocks
  *  a. Solid Blocks
@@ -48,6 +49,13 @@ public class ToDo : MonoBehaviour {
  *  d. Swimmable? (blocks or levels?)
  *  
  * 3. Enemies
+ *  a. Goomba
+ *  b. Koopa
+ *  c. Bullet Bill
+ *  d. Flying Koopa
+ *  e. Spikey
+ *  d. Boo
+ *  f. Whomper
  * 4. Misc.
  *  a. Time Limit
  *  b. Coins

@@ -68,5 +68,31 @@ public class GoombaScript : Physics_Controller {
         else if (!facingRight) { facingRight = true; GetComponent<SpriteRenderer>().flipX = true; }
     }
 
+    private void OnCollisionEnter2D(Collision2D col)
+    {
+        foreach (ContactPoint2D hitPos in col.contacts)
+        {
+            //Debug.Log(hitPos.normal); // (x and y), (1,0) = Left, (0,1) = Bottom, (-1,0) = Right, (0,-1) = Top;
+            if(hitPos.normal.y < 0) //If colliding with top of object.
+            {
+                Debug.Log(col.gameObject.tag);
+                if (col.gameObject.tag == "Player")
+                {
+                    StartCoroutine("Die");
+                }
+            }
+            else
+            {
 
+            }
+        }
+    }
+
+    public IEnumerator Die()
+    {
+        animator.SetBool("IsDie", true);
+        yield return new WaitForSeconds(0.5f);
+        Destroy(gameObject);
+
+    }
 }

@@ -183,4 +183,45 @@ public class Player_Controller2 : Physics_Controller {
         //2. Change Collision box size (or disable/enable correct box).
     }
 
+    private void OnCollisionEnter2D(Collision2D col)
+    {
+        foreach (ContactPoint2D hitPos in col.contacts)
+        {
+            if (col.gameObject.tag == "Enemy")
+            {
+                if (hitPos.normal.y == 1) //If colliding with bottom of player.
+                {
+                    if (Input.GetButton("Jump")) { velocity.y = jumpTakeOffSpeed; }
+                    else { velocity.y = jumpTakeOffSpeed * 0.5f; }
+
+                }
+                else
+                {
+                    if (isBigMario)
+                    {
+                        MakeBig(false);
+                    }
+                    else
+                    {
+                        Debug.Log("Player Dies");
+
+                    }
+                }
+            }
+
+            if (col.gameObject.tag == "Mushroom")
+            {
+                MakeBig(true);
+                Destroy(col.gameObject);
+                    
+            }
+
+            if (col.gameObject.tag == "Flower")
+            {
+
+            }
+            
+        }
+    }
+
 }

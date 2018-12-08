@@ -60,6 +60,7 @@ public class KoopaScript : Physics_Controller {
         return false;
     }
 
+    
     void Flip()
     {
         if (facingRight)
@@ -67,5 +68,10 @@ public class KoopaScript : Physics_Controller {
         else if (!facingRight) { facingRight = true; GetComponent<SpriteRenderer>().flipX = true; }
     }
 
-    
+    void Die()
+    {
+
+    }
+
+
 }
