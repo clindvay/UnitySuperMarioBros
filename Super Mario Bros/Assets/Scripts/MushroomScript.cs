@@ -2,15 +2,30 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MushroomScript : MonoBehaviour {
+public class MushroomScript : Physics_Controller {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
+    public float moveSpeed = 3f;
+    public int moveDir;
+
+    protected override void ComputeVelocity()
+    {
+        targetVelocity.x = moveSpeed * moveDir;
+    }
+
+    public void SetDir(string direction)
+    {
+        if (direction == "left")
+        {
+            moveDir = -1;
+
+        }
+        if (direction == "right")
+        {
+            moveDir = 1;
+        }
+    }
+
+
+
 	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 }

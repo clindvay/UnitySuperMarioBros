@@ -19,6 +19,7 @@ public class CoinController : MonoBehaviour {
         if (collision.gameObject.tag == "Player")
         {
             FindObjectOfType<Game_Controller>().AddCoin();
+            FindObjectOfType<Game_Controller>().AddScore(100);
             Destroy(gameObject);
         }
     }

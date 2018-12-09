@@ -76,15 +76,19 @@ public class Physics_Controller : MonoBehaviour {
 
         Vector2 moveAlongGround = new Vector2(groundNormal.y, -groundNormal.x); //Direction of movement along the ground.
 
+        
         //Add the resultant vectors
         Vector2 move = moveAlongGround * deltaPosition.x;
 
-        Movement(move, false); //Horizontal movement only.
+        Movement(move, false); //Horizontal movement only, checking for collisions.
 
         move = Vector2.up * deltaPosition.y;
 
-        Movement(move, true); //Vertical Movement
-        
+        Movement(move, true); //Vertical Movement, checking for collisions.
+
+
+
+
     }
 
     void Movement(Vector2 move, bool yMovement)
@@ -108,14 +112,16 @@ public class Physics_Controller : MonoBehaviour {
                     grounded = true; //set grounded to true.
                     if (yMovement) //If this is for vertical movement
                     {
-                        groundNormal = currentNormal; //Set the ground normal
+                        groundNormal = currentNormal; //Set the ground normal (the direction perpendicular to the ground pushing upwards)
                         currentNormal.x = 0;  //Blank out any horizontal movement in the current iteration.
                     }
                 }
 
                 float projection = Vector2.Dot(velocity, currentNormal); //Calculating directional difference between velocity and currentNormal
+                
                 if (projection < 0) //If returning a negative value (moving opposite direction from our velocity)
                 {
+
                     velocity = velocity - projection * currentNormal; //Cancel out part of velocity that would be stopped from collision.
                 }
 

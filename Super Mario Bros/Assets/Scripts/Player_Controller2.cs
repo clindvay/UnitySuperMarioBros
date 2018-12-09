@@ -20,6 +20,8 @@ public class Player_Controller2 : Physics_Controller {
     private BoxCollider2D pCollider;
     private SpriteRenderer spriteRenderer;
 
+    public int bounceCounter;
+
     // Use this for initialization
     void Awake () {
         spriteRenderer = GetComponent<SpriteRenderer>();
@@ -126,9 +128,7 @@ public class Player_Controller2 : Physics_Controller {
         
         if (velocity.y == 0 && grounded){animator.SetBool("Jumping", false);}
 
-
-
-
+        
     }
 
     private bool CheckCollisions(Collider2D moveCollider, Vector2 direction, float distance)
@@ -165,6 +165,7 @@ public class Player_Controller2 : Physics_Controller {
         {
             isBigMario = true;
             animator.SetBool("IsBig", true);
+            animator.Play("Player_BigTransition");
             pCollider.size = new Vector2(pCollider.size.x, 1.95f);
             pCollider.offset = new Vector2(pCollider.offset.x, 0f);
             
@@ -174,6 +175,7 @@ public class Player_Controller2 : Physics_Controller {
         {
             isBigMario = false;
             animator.SetBool("IsBig", false);
+            animator.Play("Player_SmallTransition");
             pCollider.size = new Vector2(pCollider.size.x, 0.95f);
             pCollider.offset = new Vector2(pCollider.offset.x, -0.5f);
 
@@ -193,6 +195,18 @@ public class Player_Controller2 : Physics_Controller {
                 {
                     if (Input.GetButton("Jump")) { velocity.y = jumpTakeOffSpeed; }
                     else { velocity.y = jumpTakeOffSpeed * 0.5f; }
+                    
+                    if (bounceCounter > 5) { bounceCounter = 5; } else { bounceCounter++; }
+
+                    int scoreAdd = 100;
+
+                    for (int i = 0; i < bounceCounter; i++)
+                    {
+                        scoreAdd *= 2;  
+                    }
+                    FindObjectOfType<Game_Controller>().AddScore(scoreAdd);
+
+
 
                 }
                 else
@@ -204,23 +218,28 @@ public class Player_Controller2 : Physics_Controller {
                     else
                     {
                         Debug.Log("Player Dies");
+                        FindObjectOfType<Game_Controller>().AddScore(100);
+
 
                     }
                 }
             }
 
-            if (col.gameObject.tag == "Mushroom")
+            else if (col.gameObject.tag == "Mushroom")
             {
                 MakeBig(true);
+                velocity = Vector2.zero;
+                FindObjectOfType<Game_Controller>().AddScore(100);
                 Destroy(col.gameObject);
                     
             }
 
-            if (col.gameObject.tag == "Flower")
+            else if (col.gameObject.tag == "Flower")
             {
+                FindObjectOfType<Game_Controller>().AddScore(1000);
 
             }
-            
+
         }
     }
 

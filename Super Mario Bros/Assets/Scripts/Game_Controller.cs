@@ -11,6 +11,8 @@ public class Game_Controller : MonoBehaviour {
     public int coinCounter = 0;
     public int extraLives;
     public Text coinDisplay;
+    public int score;
+    public Text scoreDisplay;
 
 	
 	// Update is called once per frame
@@ -23,7 +25,7 @@ public class Game_Controller : MonoBehaviour {
 
     void Start()
     {
-
+        
     }
 
 
@@ -31,6 +33,18 @@ public class Game_Controller : MonoBehaviour {
     {
         string currentLevel = SceneManager.GetActiveScene().name;
         SceneManager.LoadScene(currentLevel);
+    }
+
+    public void AddScore(int scoreAdd)
+    {
+        score += scoreAdd;
+        scoreDisplay.text = score.ToString();
+    }
+
+    public void SetScore (int scoreSet)
+    {
+        score = scoreSet;
+        scoreDisplay.text = score.ToString();
     }
 
     public void AddCoin()

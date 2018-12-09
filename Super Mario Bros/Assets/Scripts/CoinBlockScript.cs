@@ -23,12 +23,12 @@ public class CoinBlockScript : MonoBehaviour
         if (blockType == BlockType.Activated) { animator.SetBool("IsActivated", true); }
     }
 
-
+    
     private void OnCollisionEnter2D(Collision2D col)
     {
         foreach (ContactPoint2D hitPos in col.contacts)
         {
-            Debug.Log(hitPos.normal); // (x and y), (1,0) = Left, (0,1) = Bottom, (-1,0) = Right, (0,-1) = Top;
+            //Debug.Log(hitPos.normal); // (x and y), (1,0) = Left, (0,1) = Bottom, (-1,0) = Right, (0,-1) = Top;
             if (hitPos.normal.y == 1) //If colliding with bottom of coinblock.
             {
                 //Debug.Log(col.gameObject.tag);
@@ -36,6 +36,7 @@ public class CoinBlockScript : MonoBehaviour
                 {
                     //Do the coin block reveal thing.
                     ActivateCoinBlock();
+                    FindObjectOfType<Game_Controller>().AddScore(100);
 
                 }
 
